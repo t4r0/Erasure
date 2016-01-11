@@ -1,0 +1,28 @@
+{
+  "name": "erasure",
+  "version": "0.0.0",
+  "description": "A css-based animation software",
+  "main": "index.js",
+  "dependencies": {
+    "electron-prebuilt": "^0.36.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t4r0/Erasure.git"
+  },
+  "keywords": [
+    "animation",
+    "electron",
+    "css"
+  ],
+  "author": "Estuardo Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t4r0/Erasure/issues"
+  },
+  "homepage": "https://github.com/t4r0/Erasure#readme"
+}
