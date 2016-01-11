@@ -1,8 +1,8 @@
 {
   "name": "erasure",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A css-based animation software",
-  "main": "index.js",
+  "main": "main.js",
   "dependencies": {
     "electron-prebuilt": "^0.36.3"
   },
